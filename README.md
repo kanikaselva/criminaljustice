@@ -1,5 +1,3 @@
-Judgment by Algorithm: Exploring AI Fairness in Criminal Justice
-
 # Judgment by Algorithm: Exploring AI Fairness in Criminal Justice
 
 ##### *An evaluation of the use of AI in criminal justice, focusing on fairness and bias in algorithmic vs. human decisions across three counties with distinct demographic profiles*
